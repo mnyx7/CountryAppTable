@@ -1,0 +1,6 @@
+framework module Pods_CountryAppTable_CountryAppTableUITests {
+  umbrella header "Pods-CountryAppTable-CountryAppTableUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

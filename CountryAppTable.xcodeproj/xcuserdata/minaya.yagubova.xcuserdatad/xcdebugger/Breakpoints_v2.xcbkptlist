@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E0C45A6-31F3-4C6D-8208-906DCA0883FB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7126BB2F-0503-45E2-B27A-71F598B16BFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryAppTable/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "buttonEnter(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7126BB2F-0503-45E2-B27A-71F598B16BFF - 320ed96ea438933f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryAppTable.ViewController.buttonEnter(Any) -&gt; ()"
+                  moduleName = "CountryAppTable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minaya.yagubova/Desktop/swift/CountryAppTable/CountryAppTable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "7126BB2F-0503-45E2-B27A-71F598B16BFF - 320ed96ea438933f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryAppTable.ViewController.buttonEnter(Any) -&gt; ()"
+                  moduleName = "CountryAppTable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minaya.yagubova/Desktop/swift/CountryAppTable/CountryAppTable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "7126BB2F-0503-45E2-B27A-71F598B16BFF - 320ed96ea438933f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountryAppTable.ViewController.buttonEnter(Any) -&gt; ()"
+                  moduleName = "CountryAppTable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minaya.yagubova/Desktop/swift/CountryAppTable/CountryAppTable/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8ED6A52-0758-4E20-B6B9-0DE81785BDC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CountryAppTable/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

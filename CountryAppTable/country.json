@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Azerbaijan",
+        "image": "aze",
+        "city": [
+            {
+                "name": "Baku",
+                "image": "aze",
+                "info": "Salam Baki"
+            },
+            {
+                "name": "Ganja",
+                "image": "aze",
+                "info": "Salam Ganja"
+            }
+        ]
+    },
+    {
+        "name": "Turkey",
+        "image": "tr",
+        "city": [
+            {
+                "name": "Ist",
+                "image": "tr",
+                "info": "Istanbul"
+            },
+            {
+                "name": "Izmir",
+                "image": "tr",
+                "info": "Izmir"
+            }
+        ]
+    }
+]
